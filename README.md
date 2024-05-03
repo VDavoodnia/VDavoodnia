@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+- 🎓 I am a Ph.D. candidate in ECE department at Queen's University, Canada.
+- 🌟 I am interested in AI research with applications in computer vision, graphics, gaming, and virtual worlds.
+- 📫 I look forward to new challenges and collaboration opportunities. 
+
+-  [Website](https://vandaddavoodnia.github.io/) 
+-  [LinkedIn](https://www.linkedin.com/in/vandad-davoodnia/)
+
 
 <!--
 **VDavoodnia/VDavoodnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
