@@ -1,8 +1,8 @@
-### Welcome to my profile! 👋
+### Hello there! 👋
 
 - 🎓 I am a Ph.D. candidate in ECE department at Queen's University, Canada.
 - 🌟 I am interested in AI research with applications in computer vision, graphics, gaming, and virtual worlds.
-- 📫 I look forward to new challenges and collaboration opportunities. [LinkedIn](https://www.linkedin.com/in/vandad-davoodnia/)
+- 📫 I look forward to new challenges and collaboration opportunities. [LinkedIn](https://www.linkedin.com/in/vandad-davoodnia/) [Website](https://vdavoodnia.github.io/)
 
 
 <!--
