@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🎓 I am a Ph.D. Graduate from ECE department at Queen's University, Canada.
+- 🎓 I am a Ph.D. graduate from ECE department at Queen's University, Canada.
 - 🌟 I am interested in AI research with applications in computer vision, graphics, gaming, and virtual worlds.
 - 📫 I look forward to new challenges and collaboration opportunities. [LinkedIn](https://www.linkedin.com/in/vandad-davoodnia/) [Website](https://vdavoodnia.github.io/)
 
